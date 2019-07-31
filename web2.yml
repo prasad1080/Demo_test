@@ -1,0 +1,7 @@
+
+-host: localhost
+ tasks:
+    - copy: 
+        dest: /etc/hi.txt
+        content: "Hello git sivaprasad"
+        content: "Thanks"
